@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "www",
+  "description": "www",
   "keywords": [
-    "vmess or vles"
+    "www"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/zoteqarer/dan-g",
+  "repository": "https://github.com/zoteqarer/dan-g",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
